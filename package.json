@@ -1,5 +1,5 @@
 {
-  "name": "restructure",
+  "name": "@foliojs-fork/restructure",
   "version": "2.0.0",
   "description": "Declaratively encode and decode binary data",
   "main": "index.js",
@@ -18,7 +18,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/devongovett/restructure.git"
+    "url": "git://github.com/foliojs-fork/restructure.git"
   },
   "keywords": [
     "binary",
@@ -29,7 +29,7 @@
   "author": "Devon Govett <devongovett@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/devongovett/restructure/issues"
+    "url": "https://github.com/foliojs-fork/restructure/issues"
   },
-  "homepage": "https://github.com/devongovett/restructure"
+  "homepage": "https://github.com/foliojs-fork/restructure"
 }
