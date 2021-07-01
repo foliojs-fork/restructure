@@ -11,6 +11,10 @@ Some of the supported features are C-like structures, versioned structures,
 pointers, arrays of any type, strings of a large number of encodings, enums,
 bitfields, and more.  See the documentation below for more details.
 
+## Installation
+
+    npm install @foliojs-fork/restructure
+
 ## Example
 
 This is just a small example of what Restructure can do. Check out the API documentation
