@@ -1,4 +1,4 @@
-# Restructure
+# Fork of Restructure
 
 Restructure allows you to declaratively encode and decode binary data.
 It supports a wide variety of types to enable you to express a multitude
