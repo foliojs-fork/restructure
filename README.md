@@ -8,6 +8,11 @@ Some of the supported features are C-like structures, versioned structures,
 pointers, arrays of any type, strings of a large number of encodings, enums,
 bitfields, and more.  See the documentation below for more details.
 
+## Why fork?
+
+Because on original repo is not possible release new version on npm see [foliojs/restructure#45](https://github.com/foliojs/restructure/issues/45).
+This fork is same as original repo and is maintained up-to-date.
+
 ## Installation
 
     npm install @foliojs-fork/restructure
