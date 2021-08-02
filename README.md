@@ -1,4 +1,7 @@
-# Fork of Restructure
+# Fork of Restructure [![npm][npm_img]][npm_url]
+
+[npm_img]: https://img.shields.io/npm/v/@foliojs-fork/restructure.svg
+[npm_url]: https://www.npmjs.com/package/@foliojs-fork/restructure
 
 Restructure allows you to declaratively encode and decode binary data.
 It supports a wide variety of types to enable you to express a multitude
