@@ -1,6 +1,6 @@
 {
   "name": "@foliojs-fork/restructure",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "Declaratively encode and decode binary data",
   "main": "index.js",
   "devDependencies": {
